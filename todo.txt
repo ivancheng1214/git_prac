@@ -4,3 +4,4 @@
 4. work
 5. research
 6. git revert
+7. after the commit(to be partially reverted) , i wanna add a new commit.
