@@ -1,9 +1,5 @@
 1:00 am ~ 8:00 am joe
-<<<<<<< HEAD
 afternoon ryan
-git revert
 after after after
 after2 after 2 after2
-=======
-afternoon ryan
->>>>>>> parent of 57fe508... changes to be partially reverted
+thank you
