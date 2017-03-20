@@ -2,6 +2,10 @@
 2. react,redux
 3. data decryption
 4. work
+<<<<<<< HEAD
 5. research
 6. git revert
 7. after the commit(to be partially reverted) , i wanna add a new commit.
+=======
+5. research
+>>>>>>> parent of 57fe508... changes to be partially reverted
