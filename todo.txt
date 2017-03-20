@@ -2,3 +2,4 @@
 2. react,redux
 3. data decryption
 4. work
+5. research mroe about
