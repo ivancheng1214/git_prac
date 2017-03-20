@@ -2,5 +2,3 @@
 2. react,redux
 3. data decryption
 4. work
-5. research
-7. after the commit(to be partially reverted) , i wanna add a new commit.
