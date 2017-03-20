@@ -1,0 +1,4 @@
+1. git rebase
+2. react,redux
+3. data decryption
+4. work
